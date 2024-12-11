@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="9">
+        <Placemark id="11">
+            <name>Survey</name>
+            <LineString id="10">
+                <coordinates>-84.81334478414315,10.304411077823092,0.0 -84.8131361875117,10.304549104116177,0.0 -84.81315662836383,10.304588407081994,0.0 -84.81331295501938,10.304814076458088,0.0 -84.81383916341291,10.304677692400373,0.0 -84.81357896242079,10.304256656035564,0.0 -84.81334486131416,10.304411071197679,0.0</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

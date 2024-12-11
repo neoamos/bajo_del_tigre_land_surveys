@@ -1,0 +1,7 @@
+start_point,end_point,bearing_degrees,bearing_minutes,bearing_dir1,bearing_dir2,distance_in_meters
+1,2,35,56,N,W,6.22
+2,3,32,32,N,W,48.37
+3,4,76,53,S,W,29.49
+4,5,86,42,S,W,5.28
+5,6,38,53,S,E,68.55
+6,1,54,48,N,E,25.23
